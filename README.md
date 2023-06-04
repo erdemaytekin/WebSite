@@ -1,3 +1,3 @@
 # WebSite
-Html Css ile oluşturulan bir örnek websitesi
+Html Css ile oluşturulan bir örnek websitesi 
 
